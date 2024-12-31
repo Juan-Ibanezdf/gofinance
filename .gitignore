@@ -1,0 +1,4 @@
+tmp/
+.env
+.next/
+node_modules/
